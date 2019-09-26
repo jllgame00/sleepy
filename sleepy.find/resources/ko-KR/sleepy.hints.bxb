@@ -1,0 +1,12 @@
+  hints{
+    uncategorized{
+      utterance(졸음쉼터 알려줘)
+      utterance(서울 졸음쉼터 어딨어)
+      utterance(서울 충전소)
+      utterance(주변 졸음쉼터 찾아줘)
+      utterance(주변 졸음쉼터 알려줘)
+      utterance(졸음쉼터 어디 있어)
+      utterance(주변 졸음쉼터 어디 있어)
+      utterance(졸음쉼터 어딨어)
+    }
+  }
